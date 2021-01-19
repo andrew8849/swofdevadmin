@@ -1,2 +1,4 @@
-# swofdevadmin
-for device administer
+# swof
+start with one function
+devadmin
+device admin
